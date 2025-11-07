@@ -7,7 +7,3 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mady20&theme=gruvbox&layout=compact" />
 </a>
-
-<br><br>
-
-[![An image of @mady20's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mady20)](https://holopin.io/@mady20)
